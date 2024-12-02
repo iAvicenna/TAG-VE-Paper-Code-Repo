@@ -9,4 +9,4 @@ misc directory contains the code for some of the extra visual analysis presented
 
 data and plots will be made available when the paper is accepted for publication.
 
-The models are based on [PyMC: A Modern and Comprehensive Probabilistic Programming Framework in Python, Abril-Pla O, Andreani V, Carroll C, Dong L, Fonnesbeck CJ, Kochurov M, Kumar R, Lao J, Luhmann CC, Martin OA, Osthege M, Vieira R, Wiecki T, Zinkov R. (2023)](https://peerj.com/articles/cs-1516/)
+The Bayesian models are based on [PyMC](https://peerj.com/articles/cs-1516/)
