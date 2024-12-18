@@ -1,18 +1,6 @@
 # these will be made available once the paper is published
-/data
-/control_comparison/data
-/control_comparison/outputs
-/control_comparison/plots
-/clustering/data
-/clustering/outputs
-/clustering/plots
-/landscapes/data
-/landscapes/outputs
-/landscapes/plots
-/landscapes/htmls
-/manuscript_figures
-/misc/outputs
-/misc/plots
+/clustering/outputs/*
+/landscapes/outputs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

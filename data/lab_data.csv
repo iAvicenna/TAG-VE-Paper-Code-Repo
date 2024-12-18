@@ -1,0 +1,289 @@
+assay_type,assay_cell,growth_cell,sample_id,lab_code,serum_long,serum_type,min_encounters,infection,time_since_infection,uninfected_determination,vaccination,vaccine_manufacturer,time_since_last_dose,age,gender,country,comorbidities,other,XBB.1.5,Alpha,Beta,Delta,BA.1,BA.5
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_1,MUI_AT_EURO,Innsbruck 1,plasma,3,uninfected,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",6.3m,56,m,Austria,,,<10,549.65,213.18,45.54,81.38,143.11
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_2,MUI_AT_EURO,Innsbruck 2,plasma,3,uninfected,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",5.8m,86,f,Austria,,,<10,1398.06,635.00,154.13,263.74,184.72
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_3,MUI_AT_EURO,Innsbruck 3,plasma,3,uninfected,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",4.7m,67,f,Austria,,,<10,3758.82,1202.61,181.83,160.06,276.01
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_4,MUI_AT_EURO,Innsbruck 4,plasma,4,UV,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",5.8m,82,f,Austria,,,204.68,7372.3,12233.94,1103.52,7075.27,2461.76
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_5,MUI_AT_EURO,Innsbruck 5,plasma,4,UV,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",5.3m,76,f,Austria,,,74.88,1035.14,519.8,69.18,386.79,409.13
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_6,MUI_AT_EURO,Innsbruck 6,plasma,4,UV,,ELISA,"WT,WT,WT+BA.4/5","?,?,?",5.4m,72,f,Austria,,,203.83,5255.94,3981.5,1063.01,1786.66,3738.96
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_7,MUI_AT_EURO,Innsbruck 7,plasma,1,BA.5,,,unvaccinated,,,72,m,Austria,,,<10,21.75,21.33,55.22,13.02,110.73
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_8,MUI_AT_EURO,Innsbruck 8,plasma,1,BA.5,,,unvaccinated,,,52,f,Austria,,,<10,<10,13.94,<10,<10,172.15
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_9,MUI_AT_EURO,Innsbruck 9,plasma,1,BA.5,,,unvaccinated,,,55,m,Austria,,,34.42,<10,<10,<10,<10,390.97
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_10,MUI_AT_EURO,Innsbruck 10,plasma,3,uninfected,,ELISA,"WT,WT,WT","BNT,BNT,BNT",1m,38,m,Austria,,,<10,2863.49,454.28,237.66,379.82,568.11
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_11,MUI_AT_EURO,Innsbruck 11,plasma,3,uninfected,,ELISA,"WT,WT,WT","BNT,BNT,BNT",1m,30,f,Austria,,,23.41,3445.04,549.03,631.88,324.87,719.11
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_12,MUI_AT_EURO,Innsbruck 12,plasma,3,uninfected,,ELISA,"WT,WT,WT","BNT,BNT,BNT",1m,36,f,Austria,,,<10,2510.20,686.77,267.11,337.78,259.60
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_13,MUI_AT_EURO,Innsbruck 13,plasma,2,uninfected,,ELISA,"WT,WT","BNT,BNT",1m,29,f,Austria,,,<10,648.95,31.35,121.56,<10,15.69
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_14,MUI_AT_EURO,Innsbruck 14,plasma,2,uninfected,,ELISA,"WT,WT","BNT,BNT",1m,25,f,Austria,,,<10,479.18,164.55,95.72,28.72,46.32
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_15,MUI_AT_EURO,Innsbruck 15,plasma,2,uninfected,,ELISA,"WT,WT","BNT,BNT",1m,36,m,Austria,,,<10,202.22,92.74,66.77,23.02,46.65
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_16,MUI_AT_EURO,Innsbruck 16,plasma,2,"Delta,BA.1",0.5m,,unvaccinated,,,16,f,Austria,,,70.1,337.91,283.75,545.8,380.3,179.26
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_17,MUI_AT_EURO,Innsbruck 17,plasma,2,"Delta,BA.1",0.5m,,unvaccinated,,,23,m,Austria,,,<10,709.38,477.93,147.71,298.90,146.16
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_18,MUI_AT_EURO,Innsbruck 18,plasma,2,"Delta,BA.1",0.2m,,unvaccinated,,,24,f,Austria,,,112.77,57.25,29.83,91.1,246.5,117.41
+FRNT,Vero-TMPRSS2/ACE2,,MUI_AT_EURO_19,MUI_AT_EURO,Innsbruck 19,plasma,2,"Delta,BA.1",0.4m,,unvaccinated,,,32,f,Austria,,,<10,620.39,273.44,114.08,64.19,87.16
+FRNT,Vero-TMPRSS2/ACE2,,NIBSC_21/338,MUI_AT_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,56.3,4512.18,2151.25,744.71,548.08,696.12
+FRNT,Vero-TMPRSS2/ACE2,,NIBSC_21/338,MUI2_AT_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,46.1627885042114,6378.71522652547,3139.11551925557,5990.5679151621,667.304068209751,1334.17807021341
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_1,UHG_CH_EURO,Genève 1,serum,1,UV,,,unvaccinated,,,59,f,Switzerland,,,63.49,96.85,20.21,,107.2,14.34
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_2,UHG_CH_EURO,Genève 2,serum,1,UV,,,unvaccinated,,,31,f,Switzerland,,,<10,57.34,38.39,,118.1,20.67
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_3,UHG_CH_EURO,Genève 3,serum,1,UV,,,unvaccinated,,,64,m,Switzerland,,,<10,<10,<10,,<10,<10
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_4,UHG_CH_EURO,Genève 4,serum,1,UV,,,unvaccinated,,,64,f,Switzerland,,dental assistant,87.64,101.8,430.1,,14.82,91.43
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_5,UHG_CH_EURO,Genève 5,serum,2,"UV,UV",,,unvaccinated,,,57,f,Switzerland,,,75.51,2792.0,88.8,,4024.0,1406.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_6,UHG_CH_EURO,Genève 6,serum,2,"UV,UV",,,unvaccinated,,,49,f,Switzerland,,,338.0,2696.0,491.4,,687.6,806.1
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_7,UHG_CH_EURO,Genève 7,serum,2,"UV,UV",,,unvaccinated,,,37,f,Switzerland,,,54.07,1114.0,707.5,,434.7,354.4
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_8,UHG_CH_EURO,Genève 8,serum,2,"UV,UV",,,unvaccinated,,,43,m,Switzerland,,,794.3,2059.0,1404.0,,864.5,2387.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_9,UHG_CH_EURO,Genève 9,serum,2,"UV,UV",,,unvaccinated,,,42,f,Switzerland,,,691.5,1665.0,1010.0,,818.3,1581.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_10,UHG_CH_EURO,Genève 10,serum,1,uninfected,,,WT,CX,,77,f,Switzerland,,,<10,824.8,102.3,,56.18,45.12
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_11,UHG_CH_EURO,Genève 11,serum,1,uninfected,,,WT,BNT,,65,m,Switzerland,,,53.8,329.4,86.19,,58.03,31.65
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_12,UHG_CH_EURO,Genève 12,serum,1,uninfected,,,WT,BNT,,54,f,Switzerland,,,835.4,5573.0,1955.0,,1745.0,1301.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_13,UHG_CH_EURO,Genève 13,serum,1,uninfected,,,WT,CX,,46,f,Switzerland,,,<10,809.5,61.65,,<10,10.62
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_14,UHG_CH_EURO,Genève 14,serum,1,uninfected,,,WT,BNT,,28,f,Switzerland,,pharmacist,129.3,6146.0,3383.0,,1608.0,357.7
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_15,UHG_CH_EURO,Genève 15,serum,1,uninfected,,,WT,BNT,,53,m,Switzerland,,,<10,1677.0,217.7,,122.9,87.84
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_16,UHG_CH_EURO,Genève 16,serum,1,uninfected,,,WT,BNT,,77,m,Switzerland,,,71.87,5813.0,860.4,,803.2,263.6
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_17,UHG_CH_EURO,Genève 17,serum,1,uninfected,,,WT,CX,,76,f,Switzerland,,,<10,405.5,39.49,,<10,<10
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_18,UHG_CH_EURO,Genève 18,serum,1,uninfected,,,WT,BNT,,75,m,Switzerland,,,278.7,5541.0,806.0,,326.4,492.2
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_19,UHG_CH_EURO,Genève 19,serum,2,UV,,,WT,CX,,27,f,Switzerland,,,190.4,3105.0,1951.0,,1146.0,269.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_20,UHG_CH_EURO,Genève 20,serum,2,UV,,,WT,CX,,47,f,Switzerland,,,83.24,2960.0,472.5,,199.2,581.3
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_21,UHG_CH_EURO,Genève 21,serum,2,UV,,,WT,BNT,,53,f,Switzerland,,care assistant,83.27,5743.0,909.2,,297.9,881.1
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_22,UHG_CH_EURO,Genève 22,serum,2,UV,,,WT,BNT,,49,f,Switzerland,,nurse,136.2,4775.0,1439.0,,880.6,1984.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_23,UHG_CH_EURO,Genève 23,serum,2,UV,,,WT,CX,,77,f,Switzerland,,,651.6,10030.0,4660.0,,1357.0,3995.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_24,UHG_CH_EURO,Genève 24,serum,2,UV,,,WT,CX,,36,f,Switzerland,,,660.5,13287.0,6510.0,,1172.0,1866.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_25,UHG_CH_EURO,Genève 25,serum,2,UV,,,WT,BNT,,68,m,Switzerland,,,684.3,5052.0,9449.0,,1567.0,8058.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_26,UHG_CH_EURO,Genève 26,serum,2,UV,,,WT,CX,,77,f,Switzerland,,,658.9,7958.0,3774.0,,2690.0,8203.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_27,UHG_CH_EURO,Genève 27,serum,2,UV,,,WT,BNT,,69,f,Switzerland,,,877.2,4979.0,4297.0,,1229.0,819.6
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_28,UHG_CH_EURO,Genève 28,serum,3,"UV,UV",,,WT,BNT,,73,m,Switzerland,,,968.0,7773.0,5447.0,,1764.0,4153.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_29,UHG_CH_EURO,Genève 29,serum,3,"UV,UV",,,WT,CX,,28,f,Switzerland,,nurse,319.9,3835.0,1276.0,,360.1,678.6
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_30,UHG_CH_EURO,Genève 30,serum,3,"UV,UV",,,WT,BNT,,52,m,Switzerland,,,179.4,7958.0,4253.0,,1796.0,3380.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_31,UHG_CH_EURO,Genève 31,serum,3,"UV,UV",,,WT,CX,,39,f,Switzerland,,,47.41,1141.0,464.2,,189.1,355.4
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_32,UHG_CH_EURO,Genève 32,serum,3,"UV,UV",,,WT,CX,,56,m,Switzerland,,,272.0,6549.0,3358.0,,947.1,1157.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_33,UHG_CH_EURO,Genève 33,serum,3,"UV,UV",,,WT,CX,,39,m,Switzerland,,,206.1,4831.0,5854.0,,733.5,3648.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_34,UHG_CH_EURO,Genève 34,serum,3,"UV,UV",,,WT,CX,,55,m,Switzerland,,,679.8,5241.0,5220.0,,3331.0,2652.0
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_35,UHG_CH_EURO,Genève 35,serum,3,"UV,UV",,,WT,BNT,,46,f,Switzerland,,,35.95,2173.0,2343.0,,379.0,954.7
+FRNT,Vero E6/TMPRSS,,UHG_CH_EURO_36,UHG_CH_EURO,Genève 36,serum,4,"UV,UV,UV",,,WT,CX,,42,f,Switzerland,,,93.51,2884.0,1397.0,,834.6,412.1
+FRNT,Vero E6/TMPRSS,,NIBSC_21/338,UHG_CH_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,212.8,4921.0,2804.0,,1547.0,1695.0
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_1,FIVI_CH_EURO,FIVI 1,serum,3,,,,"WT,WT,WT","CX,CX,CX",,38,f,Switzerland,,hospital staff,<28.3,<28.3,<28.3,<28.3,<28.3,<28.3
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_2,FIVI_CH_EURO,FIVI 2,serum,3,,,,"WT,WT,WT","CX,CX,CX",,33,m,Switzerland,,hospital staff,<28.3,359.2,452.5,113.1,44.9,35.6
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_3,FIVI_CH_EURO,FIVI 3,serum,3,,,,"WT,WT,WT","CX,CX,CX",,50,f,Switzerland,,hospital staff,<28.3,179.6,113.1,71.3,71.3,<28.3
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_4,FIVI_CH_EURO,FIVI 4,serum,3,,,,"WT,WT,WT","CX,CX,CX",,45,f,Switzerland,,hospital staff,<28.3,359.2,452.5,142.5,142.5,<28.3
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_5,FIVI_CH_EURO,FIVI 5,serum,3,,,,"WT,WT,WT","BNT,BNT,BNT",,57,f,Switzerland,,hospital staff,<28.3,226.3,226.3,113.1,44.9,<28.3
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,FIVI_CH_EURO_6,FIVI_CH_EURO,FIVI 6,serum,3,,,,"WT,WT,WT","CX,CX,CX",,54,m,Switzerland,,hospital staff,<28.3,113.1,56.6,56.6,<28.3,<28.3
+MN,Vero E6/TMPRSS2,Vero E6/TMPRSS2,NIBSC_21/338,FIVI_CH_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,<56.6,1810.2,1436.8,1436.8,359.2,179.6
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_1,SPH_HK_WPRO,HKU 1,serum,1,BA.2,18d,,unvaccinated,,,56,m,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_2,SPH_HK_WPRO,HKU 2,serum,1,BA.2,45d,,unvaccinated,,,82,m,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_3,SPH_HK_WPRO,HKU 3,serum,1,BA.2,23d,,unvaccinated,,,73,f,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_4,SPH_HK_WPRO,HKU 4,serum,3,BA.2,32d,,"WT,WT","BNT,BNT",93d,53,m,Hong Kong,,,<10,80,,40,40,20
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_5,SPH_HK_WPRO,HKU 5,serum,3,BA.2,30d,,"WT,WT","CVAC,CVAC",131d,71,m,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_6,SPH_HK_WPRO,HKU 6,serum,3,BA.2,48d,,"WT,WT","CVAC,CVAC",162d,70,f,Hong Kong,,,<10,80,,80,20,20
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_7,SPH_HK_WPRO,HKU 7,serum,2,uninfected,,,"WT,WT","BNT,BNT",29d,69,f,Hong Kong,,,<10,10,,10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_8,SPH_HK_WPRO,HKU 8,serum,2,uninfected,,,"WT,WT","BNT,BNT",30d,72,f,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_9,SPH_HK_WPRO,HKU 9,serum,2,uninfected,,,"WT,WT","BNT,BNT",32d,56,f,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_10,SPH_HK_WPRO,HKU 10,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",28d,61,m,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_11,SPH_HK_WPRO,HKU 11,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",33d,68,m,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_12,SPH_HK_WPRO,HKU 12,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",35d,58,f,Hong Kong,,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_13,SPH_HK_WPRO,HKU 13,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",42d,71,m,Hong Kong,,,<10,40,,10,<10,10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_14,SPH_HK_WPRO,HKU 14,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",29d,65,m,Hong Kong,,,40,>320,,80,40,40
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_15,SPH_HK_WPRO,HKU 15,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",33d,62,m,Hong Kong,,,<10,80,,20,20,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_16,SPH_HK_WPRO,HKU 16,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",31d,55,f,Hong Kong,none,,<10,40,,20,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_17,SPH_HK_WPRO,HKU 17,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",33d,67,m,Hong Kong,none,frontline hcw,<10,40,,20,20,10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_18,SPH_HK_WPRO,HKU 18,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",21d,64,m,Hong Kong,hypertension,,<10,20,,10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_19,SPH_HK_WPRO,HKU 19,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",30d,53,f,Hong Kong,none,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_20,SPH_HK_WPRO,HKU 20,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",30d,50,f,Hong Kong,none,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,SPH_HK_WPRO_21,SPH_HK_WPRO,HKU 21,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",29d,58,f,Hong Kong,none,,<10,<10,,<10,<10,<10
+MN,Vero E6/TMPRSS2,,NIBSC_21/338,SPH_HK_WPRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,10,>320,,160,40,20
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_1,SPH_HK_WPRO,HKU 1,serum,1,BA.2,18d,,unvaccinated,,,56,m,Hong Kong,,,10.001,<10,,<10,40,20
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_2,SPH_HK_WPRO,HKU 2,serum,1,BA.2,45d,,unvaccinated,,,82,m,Hong Kong,,,10.001,<10,,10.001,20,10.001
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_3,SPH_HK_WPRO,HKU 3,serum,1,BA.2,23d,,unvaccinated,,,73,f,Hong Kong,,,<10,<10,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_4,SPH_HK_WPRO,HKU 4,serum,3,BA.2,32d,,"WT,WT","BNT,BNT",93d,53,m,Hong Kong,,,<10,640,,320,160,160
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_5,SPH_HK_WPRO,HKU 5,serum,3,BA.2,30d,,"WT,WT","CVAC,CVAC",131d,71,m,Hong Kong,,,10.001,<10,,<10,20,10.001
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_6,SPH_HK_WPRO,HKU 6,serum,3,BA.2,48d,,"WT,WT","CVAC,CVAC",162d,70,f,Hong Kong,,,10.001,160.0,,160.0,80.0,160.0
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_7,SPH_HK_WPRO,HKU 7,serum,2,uninfected,,,"WT,WT","BNT,BNT",29d,69,f,Hong Kong,,,<10,40,,80,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_8,SPH_HK_WPRO,HKU 8,serum,2,uninfected,,,"WT,WT","BNT,BNT",30d,72,f,Hong Kong,,,10.001,40,,20,<10,10.001
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_9,SPH_HK_WPRO,HKU 9,serum,2,uninfected,,,"WT,WT","BNT,BNT",32d,56,f,Hong Kong,,,<10,10.001,,10.001,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_10,SPH_HK_WPRO,HKU 10,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",28d,61,m,Hong Kong,,,<10,<10,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_11,SPH_HK_WPRO,HKU 11,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",33d,68,m,Hong Kong,,,<10,<10,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_12,SPH_HK_WPRO,HKU 12,serum,2,uninfected,,,"WT,WT","CVAC,CVAC",35d,58,f,Hong Kong,,,<10,10.001,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_13,SPH_HK_WPRO,HKU 13,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",42d,71,m,Hong Kong,,,<10,80,,80,40,40
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_14,SPH_HK_WPRO,HKU 14,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",29d,65,m,Hong Kong,,,40,1280,,640,320,320
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_15,SPH_HK_WPRO,HKU 15,serum,4,uninfected,,,"WT,WT,WT,WT+BA.1","BNT,BNT,BNT,BNT",33d,62,m,Hong Kong,,,20,320,,160,160,40
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_16,SPH_HK_WPRO,HKU 16,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",31d,55,f,Hong Kong,none,,10.001,160.0,,160.0,40.0,20.0
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_17,SPH_HK_WPRO,HKU 17,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",33d,67,m,Hong Kong,none,frontline hcw,10.001,640.0,,160.0,80.0,40.0
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_18,SPH_HK_WPRO,HKU 18,serum,3,uninfected,,,"WT,WT,WT","BNT,BNT,BNT",21d,64,m,Hong Kong,hypertension,,<10,80,,80,10.001,10.001
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_19,SPH_HK_WPRO,HKU 19,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",30d,53,f,Hong Kong,none,,<10,10.001,,<10,10.001,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_20,SPH_HK_WPRO,HKU 20,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",30d,50,f,Hong Kong,none,,<10,<10,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,SPH_HK_WPRO_21,SPH_HK_WPRO,HKU 21,serum,3,uninfected,,,"WT,WT,WT","CVAC,CVAC,CVAC",29d,58,f,Hong Kong,none,,<10,20,,<10,<10,<10
+PRNT,Vero E6/TMPRSS2,,NIBSC_21/338,SPH_HK_WPRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,40,1280,,1280,320,160
+MN,Vero E6,Vero E6,NIBSC_21/338,AFRIMS_TH_SEARO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,13,,,,88,34
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_1,EVC_US_PAHO,Emory 1,plasma,4,UV,956d,,"WT,WT,WT","mrna,mrna,mrna",464d,55,f,Usa,unknown,unknown,<10,721.33,579.9,619.59,127.46,204.67
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_2,EVC_US_PAHO,Emory 2,plasma,7,"UV,UV,UV",182d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",109d,47,f,Usa,unknown,unknown,115.44,3460.51,1417.35,1376.64,881.59,558.46
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_3,EVC_US_PAHO,Emory 3,plasma,6,UV,1041d,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",191d,55,f,Usa,unknown,unknown,<10,384.97,195.68,248.01,90.83,85.99
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_4,EVC_US_PAHO,Emory 4,plasma,6,"UV,UV",428d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",336d,56,m,Usa,unknown,unknown,<10,1065.67,381.81,414.59,99.21,48.37
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_5,EVC_US_PAHO,Emory 5,plasma,5,UV,1008d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",154d,55,m,Usa,unknown,unknown,117.05,1710.9,1146.36,1040.24,477.93,483.57
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_6,EVC_US_PAHO,Emory 6,plasma,5,UV,1051d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",173d,40,f,Usa,unknown,unknown,<10,780.21,127.14,301.03,61.67,39.39
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_7,EVC_US_PAHO,Emory 7,plasma,7,"UV,UV",145d,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",214d,46,m,Usa,unknown,unknown,<10,235.52,212.22,219.26,77.86,76.45
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_8,EVC_US_PAHO,Emory 8,plasma,6,"UV,UV",247d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",201d,46,m,Usa,unknown,unknown,89.79,1643.76,1923.27,2292.18,1135.71,991.48
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_9,EVC_US_PAHO,Emory 9,plasma,4,UV,905d,,"WT,WT,WT","mrna,mrna,mrna",468d,59,f,Usa,unknown,unknown,<10,957.38,195.77,236.93,40.13,49.21
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_10,EVC_US_PAHO,Emory 10,plasma,3,"UV,UV,UV",428d,,,,,27,m,Usa,unknown,unknown,<10,158.99,164.04,61.67,58.14,42.95
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_11,EVC_US_PAHO,Emory 11,plasma,6,"UV,UV",441d,,"WT,WT,WT,WT","mrna,mrna,mrna,mrna",324d,60,m,Usa,unknown,unknown,<10,819.74,321.61,387.91,113.19,78.95
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_12,EVC_US_PAHO,Emory 12,plasma,7,"UV,UV",213d,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",232d,57,m,Usa,unknown,unknown,28.29,1188.1,349.54,667.65,109.71,303.42
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_13,EVC_US_PAHO,Emory 13,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",34d,45,m,Usa,lung cancer,unknown,<10,162.28,127.74,91.99,50.28,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_14,EVC_US_PAHO,Emory 14,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",90d,45,m,Usa,lung cancer,unknown,<10,87.67,60.61,50.78,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_15,EVC_US_PAHO,Emory 15,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",153d,45,m,Usa,lung cancer,unknown,<10,65.13,57.57,42.13,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_16,EVC_US_PAHO,Emory 16,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",26d,70,f,Usa,lung cancer,unknown,<10,173.5,113.63,182.54,30.38,14.79
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_17,EVC_US_PAHO,Emory 17,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",67d,70,f,Usa,lung cancer,unknown,<10,84.29,33.63,55.33,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_18,EVC_US_PAHO,Emory 18,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",174d,70,f,Usa,lung cancer,unknown,<10,22.41,<10,<10,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_19,EVC_US_PAHO,Emory 19,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",98d,71,m,Usa,lung cancer,unknown,<10,190.96,88.13,61.31,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_20,EVC_US_PAHO,Emory 20,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",,71,m,Usa,lung cancer,unknown,<10,65.65,26.65,41.15,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_21,EVC_US_PAHO,Emory 21,plasma,1,uninfected,,,WT,,112d,68,f,Usa,lung cancer,unknown,<10,460.98,279.3,361.21,46.44,55.03
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_22,EVC_US_PAHO,Emory 22,plasma,1,uninfected,,,WT,,168d,68,f,Usa,lung cancer,unknown,<10,270.06,136.08,211.36,30.72,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_23,EVC_US_PAHO,Emory 23,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",41d,78,m,Usa,lung cancer,unknown,14.99,1123.03,724.73,540.41,119.78,63.86
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_24,EVC_US_PAHO,Emory 24,plasma,5,uninfected,,,"WT,WT,WT,WT,WT","mrna,mrna,mrna,mrna,mrna",114d,75,f,Usa,lung cancer,unknown,33.35,1840.33,969.71,789.88,361.23,210.47
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_25,EVC_US_PAHO,Emory 25,plasma,1,BA.1,43d,,,,,86,unknown,Usa,unknown,unknown,204.85,3007.69,4640.33,1822.91,1484.88,489.7
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_26,EVC_US_PAHO,Emory 26,plasma,1,BA.1,111d,,,,,unknown,unknown,Usa,unknown,unknown,51.02,6729.35,1131.14,1717.11,716.57,473.82
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_27,EVC_US_PAHO,Emory 27,plasma,1,BA.1,117d,,,,,92,unknown,Usa,unknown,unknown,21.83,487.93,248.0,303.09,156.5,128.92
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_28,EVC_US_PAHO,Emory 28,plasma,1,BA.1,129d,,,,,63,unknown,Usa,unknown,unknown,<10,<10,<10,<10,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_29,EVC_US_PAHO,Emory 29,plasma,1,BA.1,130d,,,,,27,unknown,Usa,unknown,unknown,<10,48.61,27.78,31.04,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_30,EVC_US_PAHO,Emory 30,plasma,1,BA.1,137d,,,,,64,unknown,Usa,unknown,unknown,<10,212.43,76.58,128.97,15.7,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_31,EVC_US_PAHO,Emory 31,plasma,3,BA.1,40d,,"WT,WT","mrna,mrna",,68,unknown,Usa,unknown,unknown,159.16,5821.72,2788.55,1897.62,975.69,600.25
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_32,EVC_US_PAHO,Emory 32,plasma,1,BA.1,45d,,,,,59,unknown,Usa,unknown,unknown,<10,<10,<10,<10,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_33,EVC_US_PAHO,Emory 33,plasma,1,BA.1,71d,,,,,44,unknown,Usa,unknown,unknown,67.54,158.19,130.63,434.17,157.3,163.59
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_34,EVC_US_PAHO,Emory 34,plasma,1,BA.1,88d,,,,,71,unknown,Usa,unknown,unknown,<10,<10,<10,<10,<10,<10
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_35,EVC_US_PAHO,Emory 35,plasma,3,BA.1,114d,,"WT,WT","mrna,mrna",,40,unknown,Usa,unknown,unknown,20.21,1939.43,443.44,1373.14,140.9,107.66
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_36,EVC_US_PAHO,Emory 36,plasma,2,BA.1,118d,,WT,mrna,,63,unknown,Usa,unknown,unknown,59.22,3303.79,3049.31,2115.6,575.41,904.94
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_37,EVC_US_PAHO,Emory 37,plasma,1,uninfected,,,WT+?,mrna,143d,70,f,Usa,unknown,unknown,<10,1102.91,391.24,280.65,169.96,134.07
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_38,EVC_US_PAHO,Emory 38,plasma,1,uninfected,,,WT+?,mrna,152d,47,m,Usa,unknown,unknown,42.84,1335.69,506.03,408.14,379.8,201.92
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_39,EVC_US_PAHO,Emory 39,plasma,1,uninfected,,,WT+?,mrna,151d,46,f,Usa,unknown,unknown,<10,1399.34,489.13,325.55,131.28,61.3
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_40,EVC_US_PAHO,Emory 40,plasma,1,uninfected,,,WT+?,mrna,125d,41,f,Usa,unknown,unknown,153.86,7911.39,3768.11,4447.71,827.49,1112.54
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_41,EVC_US_PAHO,Emory 41,plasma,1,uninfected,,,WT+?,mrna,152d,36,f,Usa,unknown,unknown,20.48,553.86,215.59,135.4,147.12,85.47
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_42,EVC_US_PAHO,Emory 42,plasma,1,uninfected,,,WT+?,mrna,157d,34,f,Usa,unknown,unknown,<10,329.58,49.13,136.69,16.61,38.43
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_43,EVC_US_PAHO,Emory 43,plasma,1,uninfected,,,WT+?,mrna,167d,46,f,Usa,unknown,unknown,23.55,959.28,489.78,363.79,627.87,301.21
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_44,EVC_US_PAHO,Emory 44,plasma,1,uninfected,,,WT+?,mrna,151d,38,m,Usa,unknown,unknown,284.21,2768.18,3294.16,2438.52,3252.34,996.44
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_45,EVC_US_PAHO,Emory 45,plasma,1,uninfected,,,WT+?,mrna,147d,23,m,Usa,unknown,unknown,44.7,721.84,279.39,305.68,434.36,93.51
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_46,EVC_US_PAHO,Emory 46,plasma,1,uninfected,,,WT+?,mrna,150d,32,m,Usa,unknown,unknown,32.38,1363.65,428.73,677.8,379.48,94.73
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_47,EVC_US_PAHO,Emory 47,plasma,1,uninfected,,,WT+?,mrna,153d,33,f,Usa,unknown,unknown,<10,452.31,151.79,159.17,85.33,86.69
+FRNT,VeroE6 TMPRSS2,,EVC_US_PAHO_48,EVC_US_PAHO,Emory 48,plasma,1,uninfected,,,WT+?,mrna,167d,40,m,Usa,unknown,unknown,15.61,715.39,359.73,464.85,175.76,139.82
+FRNT,VeroE6 TMPRSS2,,NIBSC_21/338,EVC_US_PAHO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,36.29,2276.86,1433.68,1544.43,233.48,172.56
+PRNT,,,FIOCRUZ_BS_PAHO_1,FIOCRUZ_BS_PAHO,FIOCRUZ 1,serum,6,UV,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,29,f,Brazil,,,40.0,2560.0,,,80.0,320.0
+PRNT,,,FIOCRUZ_BS_PAHO_2,FIOCRUZ_BS_PAHO,FIOCRUZ 2,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,34,f,Brazil,,,20.0,320.0,,,320.0,160.0
+PRNT,,,FIOCRUZ_BS_PAHO_3,FIOCRUZ_BS_PAHO,FIOCRUZ 3,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,25,f,Brazil,,,80.0,640.0,,,640.0,640.0
+PRNT,,,FIOCRUZ_BS_PAHO_4,FIOCRUZ_BS_PAHO,FIOCRUZ 4,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,41,m,Brazil,,,40.0,1280.0,,,640.0,640.0
+PRNT,,,FIOCRUZ_BS_PAHO_5,FIOCRUZ_BS_PAHO,FIOCRUZ 5,serum,5,,,,"WT,WT,WT,WT,WT/?","BNT,BNT,AZ,BNT,BNT,BNT",,34,m,Brazil,,,40.0,640.0,,,320.0,320.0
+PRNT,,,FIOCRUZ_BS_PAHO_6,FIOCRUZ_BS_PAHO,FIOCRUZ 6,serum,6,UV,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,AZ,BNT,BNT",,49,f,Brazil,,,40.0,1280.0,,,320.0,640.0
+PRNT,,,FIOCRUZ_BS_PAHO_7,FIOCRUZ_BS_PAHO,FIOCRUZ 7,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,28,f,Brazil,,,320.0,1280.0,,,1280.0,1280.0
+PRNT,,,FIOCRUZ_BS_PAHO_8,FIOCRUZ_BS_PAHO,FIOCRUZ 8,serum,6,UV,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,41,f,Brazil,,,80,<160,,,40,640
+PRNT,,,FIOCRUZ_BS_PAHO_9,FIOCRUZ_BS_PAHO,FIOCRUZ 9,serum,6,UV,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,AZ,BNT,BNT",,28,f,Brazil,,,160.0,1280.0,,,1280.0,1280.0
+PRNT,,,FIOCRUZ_BS_PAHO_10,FIOCRUZ_BS_PAHO,FIOCRUZ 10,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,48,f,Brazil,,,10.0,160.0,,,80.0,160.0
+PRNT,,,FIOCRUZ_BS_PAHO_11,FIOCRUZ_BS_PAHO,FIOCRUZ 11,serum,6,UV,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,31,f,Brazil,,,10.0,160.0,,,320.0,160.0
+PRNT,,,FIOCRUZ_BS_PAHO_12,FIOCRUZ_BS_PAHO,FIOCRUZ 12,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,30,m,Brazil,,,10.0,320.0,,,40.0,80.0
+PRNT,,,FIOCRUZ_BS_PAHO_13,FIOCRUZ_BS_PAHO,FIOCRUZ 13,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,J&J,BNT,BNT,BNT",,28,f,Brazil,,,20.0,160.0,,,80.0,160.0
+PRNT,,,FIOCRUZ_BS_PAHO_14,FIOCRUZ_BS_PAHO,FIOCRUZ 14,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,24,f,Brazil,,,320.0,1280.0,,,1280.0,1280.0
+PRNT,,,FIOCRUZ_BS_PAHO_15,FIOCRUZ_BS_PAHO,FIOCRUZ 15,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,AZ,BNT,BNT",,44,f,Brazil,,,<10,<160,,,40,80
+PRNT,,,FIOCRUZ_BS_PAHO_16,FIOCRUZ_BS_PAHO,FIOCRUZ 16,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,26,f,Brazil,,,40.0,640.0,,,1280.0,640.0
+PRNT,,,FIOCRUZ_BS_PAHO_17,FIOCRUZ_BS_PAHO,FIOCRUZ 17,serum,5,,,,"WT,WT,WT,WT,WT/?","AZ,AZ,BNT,BNT,BNT,BNT",,67,f,Brazil,,,40.0,1280.0,,,320.0,640.0
+PRNT,,,NIBSC_21/338,FIOCRUZ_BS_PAHO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,20,1280,640,,320,320
+PNT,293T/ACE2,,NICD_SA_AFRO_1,NICD_SA_AFRO,NICD 1,plasma,2,Uninfected,,,"WT,WT","BNT,BNT",,75,m,South Africa,unknown,,35,,1703,1287,3603,161
+PNT,293T/ACE2,,NICD_SA_AFRO_2,NICD_SA_AFRO,NICD 2,plasma,2,Uninfected,,,"WT,WT","BNT,BNT",,64,f,South Africa,unknown,,25,,711,1073,295,27
+PNT,293T/ACE2,,NICD_SA_AFRO_3,NICD_SA_AFRO,NICD 3,plasma,2,Uninfected,,,"WT,WT","BNT,BNT",,64,m,South Africa,unknown,,179,,1727,1117,128,136
+PNT,293T/ACE2,,NICD_SA_AFRO_4,NICD_SA_AFRO,NICD 4,plasma,2,Uninfected,,,"WT,WT","BNT,BNT",,unknown,unknown,South Africa,unknown,,<20,,874,982,182,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_5,NICD_SA_AFRO,NICD 5,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,64,m,South Africa,unknown,,241,,3586,1482,1355,5202
+PNT,293T/ACE2,,NICD_SA_AFRO_6,NICD_SA_AFRO,NICD 6,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,60,f,South Africa,unknown,,820,,4982,11411,2407,6095
+PNT,293T/ACE2,,NICD_SA_AFRO_7,NICD_SA_AFRO,NICD 7,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,65,f,South Africa,unknown,,406,,1626,2163,1076,3844
+PNT,293T/ACE2,,NICD_SA_AFRO_8,NICD_SA_AFRO,NICD 8,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,72,f,South Africa,unknown,,409,,9675,1599,1773,1848
+PNT,293T/ACE2,,NICD_SA_AFRO_9,NICD_SA_AFRO,NICD 9,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,65,f,South Africa,unknown,,498,,2959,1913,1008,2938
+PNT,293T/ACE2,,NICD_SA_AFRO_10,NICD_SA_AFRO,NICD 10,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,76,m,South Africa,unknown,,57,,1406,4346,717,1332
+PNT,293T/ACE2,,NICD_SA_AFRO_11,NICD_SA_AFRO,NICD 11,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,72,f,South Africa,unknown,,175,,909,421,299,298
+PNT,293T/ACE2,,NICD_SA_AFRO_12,NICD_SA_AFRO,NICD 12,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,66,m,South Africa,unknown,,145,,1153,917,968,371
+PNT,293T/ACE2,,NICD_SA_AFRO_13,NICD_SA_AFRO,NICD 13,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,73,m,South Africa,unknown,,137,,953,534,881,247
+PNT,293T/ACE2,,NICD_SA_AFRO_14,NICD_SA_AFRO,NICD 14,plasma,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",,72,f,South Africa,unknown,,<20,,596,776,237,288
+PNT,293T/ACE2,,NICD_SA_AFRO_15,NICD_SA_AFRO,NICD 15,plasma,2,Delta,,,WT,j&j,,53,f,South Africa,unknown,hcw,<20,,9416,60089,1407,629
+PNT,293T/ACE2,,NICD_SA_AFRO_16,NICD_SA_AFRO,NICD 16,plasma,2,Delta,,,WT,j&j,,60,f,South Africa,unknown,hcw,<20,,6238,5876,759,1031
+PNT,293T/ACE2,,NICD_SA_AFRO_17,NICD_SA_AFRO,NICD 17,plasma,2,Delta,,,WT,j&j,,41,f,South Africa,unknown,hcw,<20,,736,371,161,226
+PNT,293T/ACE2,,NICD_SA_AFRO_18,NICD_SA_AFRO,NICD 18,plasma,2,Delta,,,WT,j&j,,39,f,South Africa,unknown,hcw,220,,2001,10294,1858,3188
+PNT,293T/ACE2,,NICD_SA_AFRO_19,NICD_SA_AFRO,NICD 19,plasma,2,Delta,,,WT,j&j,,27,f,South Africa,unknown,hcw,<20,,323,184,464,205
+PNT,293T/ACE2,,NICD_SA_AFRO_20,NICD_SA_AFRO,NICD 20,plasma,2,Delta,,,WT,j&j,,26,f,South Africa,unknown,hcw,<20,,1593,1316,788,830
+PNT,293T/ACE2,,NICD_SA_AFRO_21,NICD_SA_AFRO,NICD 21,plasma,2,Delta,,,WT,j&j,,28,f,South Africa,unknown,hcw,23,,331,715,380,109
+PNT,293T/ACE2,,NICD_SA_AFRO_22,NICD_SA_AFRO,NICD 22,plasma,2,Delta,,,WT,j&j,,39,f,South Africa,unknown,hcw,57,,5925,5129,1166,7307
+PNT,293T/ACE2,,NICD_SA_AFRO_23,NICD_SA_AFRO,NICD 23,plasma,2,Delta,,,WT,j&j,,44,f,South Africa,unknown,hcw,24,,962,1308,489,1444
+PNT,293T/ACE2,,NICD_SA_AFRO_24,NICD_SA_AFRO,NICD 24,plasma,2,Delta,,,WT,j&j,,40,m,South Africa,unknown,hcw,34,,4517,3632,1910,226
+PNT,293T/ACE2,,NICD_SA_AFRO_25,NICD_SA_AFRO,NICD 25,plasma,1,BA.1,,,,Unvaccinated,,69,f,South Africa,"hypertension,diabetes",hospitalised,70,,87,193,8603,188
+PNT,293T/ACE2,,NICD_SA_AFRO_26,NICD_SA_AFRO,NICD 26,plasma,1,BA.1,,,,Unvaccinated,,24,m,South Africa,,hospitalised,<20,,28,14000,4548,101
+PNT,293T/ACE2,,NICD_SA_AFRO_27,NICD_SA_AFRO,NICD 27,plasma,1,BA.1,,,,Unvaccinated,,58,m,South Africa,"diabetes,chronic kidney disease",hospitalised,49,,<20,179,4533,221
+PNT,293T/ACE2,,NICD_SA_AFRO_28,NICD_SA_AFRO,NICD 28,plasma,1,BA.1,,,,Unvaccinated,,27,m,South Africa,,hospitalised,<20,,<20,39,1505,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_29,NICD_SA_AFRO,NICD 29,plasma,1,BA.1,,,,Unvaccinated,,59,m,South Africa,diabetes,hospitalised,<20,,<20,<20,7398,221
+PNT,293T/ACE2,,NICD_SA_AFRO_30,NICD_SA_AFRO,NICD 30,plasma,1,BA.1,,,,Unvaccinated,,47,f,South Africa,"hypertension,diabetes,overweight",hospitalised,<20,,<20,38,1513,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_31,NICD_SA_AFRO,NICD 31,plasma,1,BA.1,,,,Unvaccinated,,58,m,South Africa,"hypertension,diabetes",hospitalised,<20,,<20,<20,3926,114
+PNT,293T/ACE2,,NICD_SA_AFRO_32,NICD_SA_AFRO,NICD 32,plasma,1,BA.1,,,,Unvaccinated,,35,f,South Africa,,hospitalised,<20,,21605,653,1873,799
+PNT,293T/ACE2,,NICD_SA_AFRO_33,NICD_SA_AFRO,NICD 33,plasma,1,BA.1,,,,Unvaccinated,,29,f,South Africa,aplastic anaemia,hospitalised,<20,,<20,<20,1413,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_34,NICD_SA_AFRO,NICD 34,plasma,1,BA.1,,,,Unvaccinated,,17,f,South Africa,diabetes,hospitalised,44,,4117,246,3262,460
+PNT,293T/ACE2,,NICD_SA_AFRO_35,NICD_SA_AFRO,NICD 35,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_36,NICD_SA_AFRO,NICD 36,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_37,NICD_SA_AFRO,NICD 37,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_38,NICD_SA_AFRO,NICD 38,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,,,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_39,NICD_SA_AFRO,NICD 39,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_40,NICD_SA_AFRO,NICD 40,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_41,NICD_SA_AFRO,NICD 41,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_42,NICD_SA_AFRO,NICD 42,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_43,NICD_SA_AFRO,NICD 43,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NICD_SA_AFRO_44,NICD_SA_AFRO,NICD 44,plasma,0,Uninfected,,,,Unvaccinated,,unknown,unknown,South Africa,unknown ,,<20,,<20,<20,<20,<20
+PNT,293T/ACE2,,NIBSC_21/338,NICD_SA_AFRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,146,,8374,7297,2158,2319
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_1,VIDRL_AU_WPRO,VIDRL 1,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",52d,unknown,unknown,Australia,,,<10,,,48,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_2,VIDRL_AU_WPRO,VIDRL 2,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",11d,unknown,unknown,Australia,,,<10,,,427,90,101
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_3,VIDRL_AU_WPRO,VIDRL 3,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",59d,unknown,unknown,Australia,,,<10,,,80,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_4,VIDRL_AU_WPRO,VIDRL 4,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",14d,unknown,unknown,Australia,,,<10,,,202,26,33
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_5,VIDRL_AU_WPRO,VIDRL 5,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",49d,unknown,unknown,Australia,,,<10,,,53,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_6,VIDRL_AU_WPRO,VIDRL 6,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",34d,unknown,unknown,Australia,,,<10,,,453,90,51
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_7,VIDRL_AU_WPRO,VIDRL 7,unknown,2,Uninfected,,,"WT,WT","AZ,AZ",,unknown,unknown,Australia,,,<10,,,28,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_8,VIDRL_AU_WPRO,VIDRL 8,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",10d,unknown,unknown,Australia,,,<10,,,1140,190,160
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_9,VIDRL_AU_WPRO,VIDRL 9,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",48d,unknown,unknown,Australia,,,<10,,,143,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_10,VIDRL_AU_WPRO,VIDRL 10,unknown,3,Uninfected,,,"WT,WT,WT","UM,UM,UM",,unknown,unknown,Australia,,,<10,,,48,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_11,VIDRL_AU_WPRO,VIDRL 11,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",41d,unknown,unknown,Australia,,,<10,,,64,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_12,VIDRL_AU_WPRO,VIDRL 12,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",7d,unknown,unknown,Australia,,,25,,,616,320,80
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_13,VIDRL_AU_WPRO,VIDRL 13,unknown,2,Uninfected,,,"WT,WT","AZ,AZ",,unknown,unknown,Australia,,,<10,,,26,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_14,VIDRL_AU_WPRO,VIDRL 14,unknown,3,Uninfected,,,"WT,WT,WT","BNT,BNT,BNT",13d,unknown,unknown,Australia,,,<10,,,854,48,134
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_15,VIDRL_AU_WPRO,VIDRL 15,unknown,2,Uninfected,,,"WT,WT","BNT,BNT",60d,unknown,unknown,Australia,,,<10,,,127,<10,<10
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_16,VIDRL_AU_WPRO,VIDRL 16,unknown,3,Uninfected,,,"WT,WT,WT","UM,UM,UM",20d,unknown,unknown,Australia,,,<10,,,381,72,107
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_17,VIDRL_AU_WPRO,VIDRL 17,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,333,127,80
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_18,VIDRL_AU_WPRO,VIDRL 18,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,202,40,35
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_19,VIDRL_AU_WPRO,VIDRL 19,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,76,,,2032,453,549
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_20,VIDRL_AU_WPRO,VIDRL 20,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,36,,,1437,508,508
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_21,VIDRL_AU_WPRO,VIDRL 21,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,180,,,1918,538,359
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_22,VIDRL_AU_WPRO,VIDRL 22,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,143,50,68
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_23,VIDRL_AU_WPRO,VIDRL 23,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,528,80,57
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_24,VIDRL_AU_WPRO,VIDRL 24,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,32,,,2032,403,214
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_25,VIDRL_AU_WPRO,VIDRL 25,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,40,,,1280,359,101
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_26,VIDRL_AU_WPRO,VIDRL 26,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,1280,285,214
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_27,VIDRL_AU_WPRO,VIDRL 27,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,14,,,452,214,60
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_28,VIDRL_AU_WPRO,VIDRL 28,unknown,4,Uninfected,,,"WT,WT,WT,WT+BA.1","CX,CX,CX,CX",28d,unknown,unknown,Australia,,,<10,,,359,40,50
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_29,VIDRL_AU_WPRO,VIDRL 29,unknown,4,UV,18d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,33,,,1280,160,160
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_30,VIDRL_AU_WPRO,VIDRL 30,unknown,4,UV,19d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,14,,,616,226,180
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_31,VIDRL_AU_WPRO,VIDRL 31,unknown,4,UV,21d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,<10,,,359,57,72
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_32,VIDRL_AU_WPRO,VIDRL 32,unknown,4,UV,14d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,<10,,,269,143,45
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_33,VIDRL_AU_WPRO,VIDRL 33,unknown,4,UV,15d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,<10,,,254,107,107
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_34,VIDRL_AU_WPRO,VIDRL 34,unknown,4,UV,31d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,<10,,,665,169,107
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_35,VIDRL_AU_WPRO,VIDRL 35,unknown,4,UV,50d,,"WT,WT,WT","BNT,BNT,BNT",,unknown,unknown,Australia,,,<10,,,339,113,80
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_36,VIDRL_AU_WPRO,VIDRL 36,unknown,4,UV,48d,,"WT,WT,WT","CX,CX,CX",,unknown,unknown,Australia,,,<10,,,452,227,90
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_37,VIDRL_AU_WPRO,VIDRL 37,unknown,4,UV,51d,,"WT,WT,WT","CX,CX,CX",,unknown,unknown,Australia,,,45,,,1076,320,571
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,VIDRL_AU_WPRO_38,VIDRL_AU_WPRO,VIDRL 38,unknown,4,UV,20d,,"WT,WT,WT","UM,UM,UM",,unknown,unknown,Australia,,,25,,,320,28,60
+MN,Vero E6-TMPRSS2,Vero E6-TMPRSS2 / Calu3,NIBSC_21/338,VIDRL_AU_WPRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,<10,,,616,64,64
+PRNT,Vero E6,Vero E6,NIBSC_21/338,CUH_DE_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,40,10240,10240,,1280,1280
+PRNT,Vero E6,,NIBSC_21/338,RKI_DE_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,53,6827,,,1280,640
+PNT,HT1080-ACE2 cells,,NIBSC_21/338,RKI_DE_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,147,5285,2530,2237,1077,1008
+MN,Vero TMPRSS-2,,NIBSC_21/338,NMIMR_GH_AFRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,73,4747,3840,1280,745,1024
+PRNT,Vero TMPRSS-2,,NIBSC_21/338,NMIMR_GH_AFRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,56,2272,1809,,463,778
+FRNT,Vero-TMPRSS2,Calu-3,NIBSC_21/338,EMS_NL_EURO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,323.8,16716.0,11097.0,3061.0,1943.0,3489.0
+PRNT,Vero E6,Vero E6,NIBSC_21/338,RLID_AUE_EMRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,71.1,>320,239.5,>320,<10,>320
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_1,USCDC_PAHO,USCDC 1,serum,2,unknown,,,"WT,WT","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=4",16.59,389.93,,,158.71,169.08
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_2,USCDC_PAHO,USCDC 2,serum,2,unknown,,,"WT,BA.4+BA.5","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=4",136.36,3947.93,,,523.17,274.42
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_3,USCDC_PAHO,USCDC 3,serum,2,unknown,,,"WT,WT","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=3",15.98,1316.24,,,637.11,150.71
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_4,USCDC_PAHO,USCDC 4,serum,2,unknown,,,"WT,BA.4+BA.5","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=3",200.87,604.82,,,1471.99,1302.87
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_5,USCDC_PAHO,USCDC 5,serum,2,unknown,,,"WT,WT","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=4",159.2,3709.73,,,735.73,2759.17
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_6,USCDC_PAHO,USCDC 6,serum,2,unknown,,,"WT,BA.4+BA.5","mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=4",54.98,*,,,1146.44,6726.11
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_7,USCDC_PAHO,USCDC 7,serum,0,uninfected,,,unvaccinated,,,"pool (19-66, mean:42, med: 45)","pool (7f, 3m)",Usa,unknown,n=7,*,*,,,567.05,63.81
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_8,USCDC_PAHO,USCDC 8,serum,2,unknown,,,"WT,WT","mRNA,mRNA",,"pool (22-56, mean: 36, med: 40)","pool (4f, 1m)",Usa,unknown,"frontline hcw, n=5",21.74,*,,,21.81,1147.93
+PRNT,VeroE6/TMPRSS2/ACE2,,USCDC_PAHO_9,USCDC_PAHO,USCDC 9,serum,3,unknown,,,"WT,WT,WT","mRNA,mRNA,mRNA",,pool,pool,Usa,unknown,"frontline hcw, n=5",37.73,3860.69,,,1263.12,458.09
+FRNT,VeroE6 TMPRSS2,,NIBSC_21/338,EVC2_US_PAHO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,40.47,1673.69,1005.38,1034.59,233.11,184.36
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,NIBSC_21/338,AHRI_ZA_AFRO,NIBSC_21/338,plasma,2,pool,,,pool,pool,,pool,pool,Pool,,,97,,,2798,782,616
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_1,AHRI_ZA_AFRO,AHRI 1,plasma,2,XBB.1.5,,,WT,BNT,,30,f,South Africa,,healthcare worker,619,,,<10,<10,81
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_2,AHRI_ZA_AFRO,AHRI 2,plasma,2,XBB.1.5,,,WT,BNT,,59,f,South Africa,,healthcare worker,969,,,2090,2190,2511
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_3,AHRI_ZA_AFRO,AHRI 3,plasma,2,XBB.1.5,,,WT,Jannsen,,28,f,South Africa,,,104,,,773,580,343
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_4,AHRI_ZA_AFRO,AHRI 4,plasma,2,XBB.1.5,,,WT,BNT,,66,f,South Africa,diabetes/hypertension/stroke history,healthcare worker,11820,,,6892,9891,7556
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_5,AHRI_ZA_AFRO,AHRI 5,plasma,2,XBB.1.5,,,WT,BNT,,73,f,South Africa,,,526,,,1936,747,1497
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_6,AHRI_ZA_AFRO,AHRI 6,plasma,3,XBB.1.5,,,"WT,WT","Jannsen,CX",,45,m,South Africa,,healthcare worker,196,,,314,896,638
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_7,AHRI_ZA_AFRO,AHRI 7,plasma,2,XBB.1.5,,,WT,Jannsen,,47,f,South Africa,hypertension,healthcare worker,4140,,,3665,22664,2359
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_8,AHRI_ZA_AFRO,AHRI 8,plasma,1,XBB.1.5,,,,,,59,m,South Africa,heart disease,,259,,,367,670,531
+FRNT,VeroE6-TMPRSS2,VeroE6-TMPRSS2,AHRI_ZA_AFRO_9,AHRI_ZA_AFRO,AHRI 9,plasma,1,XBB.1.5,,,,,,69,m,South Africa,,,741,,,2547,2148,1083
