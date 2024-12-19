@@ -1,4 +1,5 @@
-# these will be made available once the paper is published
+# these are large inference objects which are not included in the repo.
+# you can either rerun the simulations to obtain them or ask the author
 /clustering/outputs/*
 /landscapes/outputs/*
 
